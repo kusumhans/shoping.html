@@ -1,2 +1,2 @@
 # shoping.html
-My first git project
+shoping
