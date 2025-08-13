@@ -1,2 +1,3 @@
 # shoping.html
-shoping
+shop-cart
+
